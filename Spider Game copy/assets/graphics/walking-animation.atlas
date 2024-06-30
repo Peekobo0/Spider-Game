@@ -1,0 +1,61 @@
+walking-animation.png
+size:2048,64
+repeat:none
+Standing Facing Down
+bounds:0,0,64,64
+Standing Facing Left
+bounds:64,0,64,64
+Standing Facing Right
+bounds:128,0,64,64
+Walking Side
+bounds:128,0,64,64
+Standing Facing Up
+bounds:192,0,64,64
+Walking Down
+bounds:256,0,64,64
+Walking Down
+bounds:320,0,64,64
+Walking Down
+bounds:384,0,64,64
+Walking Down
+bounds:448,0,64,64
+Walking Down
+bounds:512,0,64,64
+Walking Down
+bounds:576,0,64,64
+Walking Down
+bounds:640,0,64,64
+Walking Down
+bounds:704,0,64,64
+Walking Side
+bounds:768,0,64,64
+Walking Side
+bounds:832,0,64,64
+Walking Side
+bounds:896,0,64,64
+Walking Side
+bounds:960,0,64,64
+Walking Side
+bounds:1024,0,64,64
+Walking Side
+bounds:1088,0,64,64
+Walking Side
+bounds:1152,0,64,64
+Walking Side
+bounds:1216,0,64,64
+Walking Up
+bounds:1280,0,64,64
+Walking Up
+bounds:1344,0,64,64
+Walking Up
+bounds:1408,0,64,64
+Walking Up
+bounds:1472,0,64,64
+Walking Up
+bounds:1536,0,64,64
+Walking Up
+bounds:1600,0,64,64
+Walking Up
+bounds:1664,0,64,64
+Walking Up
+bounds:1728,0,64,64
